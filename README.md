@@ -1,4 +1,5 @@
 Snake Game 🎮
+
 Welcome to the Snake Game! This project showcases the implementation of a classic Snake game using C and C++, leveraging object-oriented programming principles and efficient data structures to deliver an optimized and seamless gameplay experience.
 
 🚀 Features
@@ -23,7 +24,7 @@ GameMechanics.cpp: Handles snake behaviour and movement.
 Collision.cpp: Manages game logic, collision, and scoring.
 BST.cpp: Implements the Binary Search Tree for pathfinding and optimization.
 include/
-Header files for modularized components (Snake.h, Game.h, etc.).
+Header files for modularized components (Snake.h, GameMechanics.h, etc.).
 assets/
 Game assets such as sprites or additional files (if applicable).
 🛠️ Technologies Used
@@ -36,7 +37,7 @@ Efficient memory management and latency reduction
 
 🌟 Highlights
 Optimized Gameplay: Enjoy a smooth, lag-free gaming experience.
-Educational Value: Demonstrates the use of OOP, data structures, and algorithms in game development.
+Educational Value: Demonstrates using OOP, data structures, and algorithms in game development.
 Engaging Mechanics: Fun and challenging gameplay for all users.
 📌 Future Enhancements
 Add levels with increasing difficulty.
@@ -45,6 +46,6 @@ Introduce graphical UI with a game engine like SDL or SFML.
 Enable multiplayer functionality.
 
 💬 Feedback
-If you have any suggestions or feedback, please open an issue or contact me at your-email@example.com.
+If you have any suggestions or feedback, please open an issue or contact me at anands29@mcmaster.ca.
 
 Made with ❤️ and Code! 🐍
