@@ -9,7 +9,9 @@ Scoring System: Tracks the player’s score dynamically, rewarding strategic gam
 Efficient Algorithms:
 
 Arrays, queues, and linked lists were used to enhance game mechanics, achieving a 20% boost in efficiency.
+
 Binary Search Trees (BST) were implemented for pathfinding and optimization, reducing gameplay latency by 15%.
+
 Object-Oriented Design: Modular and reusable code structure following OOP principles.
 
 Fully Functional: Meets all game requirements with 100% completion of features.
